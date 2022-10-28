@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yuan Chen Wang : @shccgxqp
 - 👀 I’m interested in Cooking、River Tracing、Pc Game、codeing
-- 🌱 I’m currently learning python、Line Bot、Scraper
+- 🌱 I’m currently learning Python、Line Bot、Scraper
 - 📫 How to reach me ...
 
 <!---
