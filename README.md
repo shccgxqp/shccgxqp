@@ -4,6 +4,8 @@
 
 ![Image](https://www.codewars.com/users/shccgxqp/badges/large?theme=light)
 
+-Codewars every day 
+
 <!---
 shccgxqp/shccgxqp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
